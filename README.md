@@ -2,19 +2,20 @@
 
 ¡Hola! Soy un estudiante de **Ingeniería en Sistemas de Información** con un enfoque en **Análisis de Datos** y **Ciencia de Datos en Inteligencia Artificial**. Me apasiona el aprendizaje continuo y la mejora constante, especialmente en el ámbito de la **programación**, **análisis de datos** y **aprendizaje automático**.
 
-A lo largo de mi formación, he adquirido sólidos conocimientos en **Python**, **Programación Orientada a Objetos**, **R**, **SQL** y el uso de **bases de datos en la nube** con **AWS**. Mi enfoque es práctico, y busco siempre aplicar mis habilidades en proyectos reales para abordar problemas y crear soluciones efectivas.
+A lo largo de mi formación, he adquirido sólidos conocimientos en **Python**, **Programación Orientada a Objetos**, **R**, **SQL** y el uso de **web services** con **AWS**. Mi enfoque es práctico, y busco siempre aplicar mis habilidades en proyectos reales para abordar problemas y crear soluciones efectivas.
 
 ## 🚀 Proyectos Destacados
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, explorando áreas como la **Inteligencia Artificial**, el **Análisis de Datos**, y la **Automatización**.
 
-- **[Nombre del Proyecto 1]**: Descripción breve del proyecto.
-- **[Nombre del Proyecto 2]**: Descripción breve del proyecto.
+- **[Abandono de Empleados]**: Analisis de tasa de abandono de empleados encontrando patrones comunes que puedan explicar este fenómeno y dar posibles soluciones a este problema.
+- **[Detección_de_sarcasmo]**: Identificar frases sarcásticas y distinguir entre noticias falsas y noticias legítimas.
+- **[Eficiencia Laboral (Computer Vision)]**: Identificar en una oficina cuando un trabajador esta enfocado trabajando y cronometrarlo, luego realizar un analisis de eficiencia laboral comparado a otros trabajadores.
 
 ## 💡 Habilidades
 
 - **Lenguajes de Programación**: Python, R, SQL
-- **Bases de Datos**: AWS, SQL
+- **Bases de Datos**: ORM (Python), MySQL, PosgreSQL
 - **Técnicas de Análisis**: Ciencia de Datos, Aprendizaje Automático
 - **Metodologías**: Programación Orientada a Objetos (OOP)
 
